@@ -3,5 +3,6 @@ torch
 torchvision
 timm
 grad-cam
+opencv-python-headless
 pillow
 numpy
